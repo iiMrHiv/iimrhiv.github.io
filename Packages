@@ -2,7 +2,7 @@ Package: com.iimrhiv.spongeboard
 Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: iiMrHiv <oliparry@icloud.com>
-Filename: //com.iimrhiv.spongeboard.deb
+Filename: debs//com.iimrhiv.spongeboard.deb
 Size: 9615428
 MD5sum: 
 SHA1: 
