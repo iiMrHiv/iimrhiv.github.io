@@ -4,12 +4,11 @@ Architecture: iphoneos-arm
 Maintainer: iiMrHiv <oliparry@icloud.com>
 Filename: .//com.iimrhiv.spongeboard.deb
 Size: 9615428
-MD5sum: 5555e595fe63c1091c6fbd1106d2f413
-SHA1: c94b222c0aab720c932257def3d4ab553cae3110
-SHA256: aa72feb3b10f7321925d3f72cf986e83cd8f1849896d25b2784d443b923f0f56
+MD5sum: 
+SHA1: 
+SHA256: 
 Section: Entertainment
 Description: This is a soundboard for the TV show Spongebob.
 Author: iiMrHi v <oliparry@icloud.com>
 Depiction: http://iimrhiv.github.io/depic/spongeboard.springboard/index.html
 Name: Spongeboard
-
