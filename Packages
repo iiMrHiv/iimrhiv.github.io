@@ -2,11 +2,11 @@ Package: com.iimrhiv.spongeboard
 Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: iiMrHiv <oliparry@icloud.com>
-Filename: //debs/com.iimrhiv.spongeboard.deb
-Size: 9615648
-MD5sum: b221a0a07121788058d71f0766b85131
-SHA1: 0a4d3b61ea5cecbd481c107b1d068dc8841d892c
-SHA256: 506351906c045e168106009c567e521b18ae96964282e1131d36e7c89c0cef19
+Filename: .//com.iimrhiv.spongeboard.deb
+Size: 9615428
+MD5sum: 5555e595fe63c1091c6fbd1106d2f413
+SHA1: c94b222c0aab720c932257def3d4ab553cae3110
+SHA256: aa72feb3b10f7321925d3f72cf986e83cd8f1849896d25b2784d443b923f0f56
 Section: Entertainment
 Description: This is a soundboard for the TV show Spongebob.
 Author: iiMrHi v <oliparry@icloud.com>
