@@ -14,14 +14,14 @@ Depiction: http://iimrhiv.github.io/depic/spongeboard.springboard/index.html
 Name: Spongeboard
 
 Package: com.iimrhiv.all4hack
-Version: 0.0.1
+Version: 0.0.1-11
 Architecture: iphoneos-arm
 Maintainer: iiMrHiv <oliparry@icloud.com>
 Filename: debs//com.iimrhiv.all4hack.deb
-Size: 1686
-MD5sum: e39d4f3c8b44829615a2e81bd2914dac
-SHA1: ba4c37403019d638fb0ceedfff054afeaadd6487
-SHA256: 817909b59a08ba60359bb9c0f364bb0a6bb56aa0121b0431c0c182264b0df29f
+Size: 1902
+MD5sum: 7154d535d70ce5410ee6af7879aa9019
+SHA1: ee856839dbdf2cdda98c5cba2944379f19a416b2
+SHA256: 9137556d4d5794ec5a322ac0c9c7eaeaecaf7ede545b40a4cb83c9c2466a055d
 Section: Tweaks
 Description: Stops All 4 from detecting you are jailbroken
 Author: iiMrHi v <oliparry@icloud.com>
